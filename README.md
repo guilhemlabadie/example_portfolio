@@ -1,7 +1,7 @@
 # Data Strategy · Data Science · Data Engineering
 
 New York, USA | +1 646-684-6203  
-linkedin.com/in/guilhem-labadie · drguilhemlabadie@gmail.com
+[Linkedin](linkedin.com/in/guilhem-labadie) · drguilhemlabadie@gmail.com · [Google Scholar Profile](https://scholar.google.com/citations?user=1KHhBdwAAAAJ&hl=en) · [Peer review]( https://orcid.org/0000-0002-4092-0923)
 
 #### Technical Skills: Python, Pandas, SQL, Machine Learning, Git, AWS, Snowflake, distributed data systems, orchestration, data governance, DHIS2, Tableau, Power BI, Illustrator
 
@@ -47,15 +47,17 @@ linkedin.com/in/guilhem-labadie · drguilhemlabadie@gmail.com
 **Standards, Platforms & Partnerships**
 
 - Standardized community health worker indicators across 9 global agencies.
- <img src="[https://github.com/favicon.ico](https://www.healthdatacollaborative.org/fileadmin/_processed_/b/8/csm_UNICEF_NY_CHW_Guidance_Cover_EN_-_Copy_50_a5b785145e.jpg)" width="50%" />
+ <img src=https://www.healthdatacollaborative.org/fileadmin/_processed_/b/8/csm_UNICEF_NY_CHW_Guidance_Cover_EN_-_Copy_50_a5b785145e.jpg width="25%" />
 - Chaired WHO advisory group on COVID-19 impact on essential health services.
-  ![Alt text for the image](path/to/image.jpg "Optional Title")
+<img src=https://evidence-impact.org/storage/376/WHO-2019-nCoV-essential_health_services-monitoring-2021.1-eng.jpg width="25%" />
 
 ---
 
 ### Health Expert · Office of the ADG · WHO · 2015 – 2018 · Geneva
 
-- Updated global data frameworks tracking 30B+ USD in commitments.  
+- Updated global data frameworks tracking 30B+ USD in commitments.
+- Data analysis of global survey on child strategy program over 95 countries
+<img src=https://iris.who.int/server/api/core/bitstreams/7ff8b70d-8438-41f6-b47a-7e63139aea6f/content />
 - Directed policy and data mapping for sexual and reproductive health.  
 - Managed collaborations across WHO departments, UN agencies, and academic partners.  
 - Co developed the YoungVoicesCount digital youth engagement platform.
