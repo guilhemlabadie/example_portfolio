@@ -129,5 +129,5 @@ New York, USA | +1 646-684-6203
 
 ## About
 
-Fluent in English, Spanish, French; working proficiency in German, Portuguese, Italian, Japanese.  
+Fluent in English, Spanish, French, German. Intermediate: Portuguese, Italian. Beginner: Japanese.  
 US permanent resident; French citizen.
