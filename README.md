@@ -71,6 +71,7 @@ New York, USA
 - Updated global data frameworks tracking 30B+ USD in commitments.
 - Data analysis of global survey on child strategy program over 95 countries
 <img src=https://iris.who.int/server/api/core/bitstreams/7ff8b70d-8438-41f6-b47a-7e63139aea6f/content />
+
 - Directed policy and data mapping for sexual and reproductive health.  
 - Managed collaborations across WHO departments, UN agencies, and academic partners.  
 - Co developed the YoungVoicesCount digital youth engagement platform.
@@ -133,5 +134,6 @@ New York, USA
 
 ## About
 
-Fluent in English, Spanish, French, German. Intermediate: Portuguese, Italian. Beginner: Japanese.  
-US permanent resident; French citizen.
+- Fluent in English, Spanish, French, German. 
+- Intermediate in Portuguese, Italian. Beginner: Japanese.  
+- US permanent resident; French citizen.
