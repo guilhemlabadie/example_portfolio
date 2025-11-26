@@ -18,7 +18,9 @@ New York, USA
          * Matching
          * Propensity score matching (PSM)
      * Jupyter Notebook: Python Panda Statsmodels Sklearn Scipy
-
+* [Principal Component Analysis (PCA) applied to the Breast Cancer Wisconsin Diagnostic datasets](Principal_Component_Analysis.ipynb)
+    * Features standardization, PCA, interpretation (malignant / benign)
+    * Jupyter Notebook: Python Panda Sklearn 
 ---
 ## Education
 
