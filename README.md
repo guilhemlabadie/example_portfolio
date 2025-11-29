@@ -20,7 +20,7 @@ New York, USA
      * Jupyter Notebook: **Python Panda Statsmodels Sklearn Scipy**
  * [3.MIMIC-IV_Clinical_Database_Data_Exploration using SQL](3.MIMIC-IV_SQL.ipynb):
      * Jupyter Notebook: SQLite
-     * SQL: SELECT, filtering, text filtering,sorting, aggregation, DISTINCT, GROUP BY, CASE, CTE, SELF JOIN, subqueries, Window function
+     * SQL: **SELECT, filtering, text filtering,sorting, aggregation, DISTINCT, GROUP BY, CASE, CTE, SELF JOIN, subqueries, Window function**
 * [Principal Component Analysis (PCA) applied to the Breast Cancer Wisconsin Diagnostic datasets](Principal_Component_Analysis.ipynb)
     * Features standardization, PCA, interpretation (malignant / benign)
     * Jupyter Notebook: **Python Panda Sklearn** 
