@@ -26,7 +26,14 @@ New York, USA
        
 * [Principal Component Analysis (PCA) applied to the Breast Cancer Wisconsin Diagnostic datasets](Principal_Component_Analysis.ipynb)
     * Features standardization, PCA, interpretation (malignant / benign)
-    * Jupyter Notebook: **Python Panda Sklearn** 
+    * Jupyter Notebook: **Python Panda Sklearn**
+ 
+* [AIDS clinical trial](AB%20Testing_ABntesting_MultiarmedBandits_ThompsonBootstrap.ipynb)
+    * A/B testing
+    * A/B/n testing
+    * Multiarmed Bandits 
+    * Thompson Bootstrap Sampling
+    * Jupyter Notebook: **Python Panda Statsmodels Scipy** 
 ---
 ## Education
 
