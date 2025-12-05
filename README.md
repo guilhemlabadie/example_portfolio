@@ -29,10 +29,10 @@ New York, USA
     * Jupyter Notebook: **Python Panda Sklearn**
  
 * [AIDS clinical trial](AB%20Testing_ABntesting_MultiarmedBandits_ThompsonBootstrap.ipynb)
-    * A/B testing
-    * A/B/n testing
-    * Multiarmed Bandits 
-    * Thompson Bootstrap Sampling
+    * A/B testing: sample size, logistic regression and assumptions testing
+    * A/B/n testing including sampling (4 arms)
+    * Multiarmed Bandits and ε greedy policy (4 arms)
+    * Thompson Bootstrap Sampling (4 arms)
     * Jupyter Notebook: **Python Panda Statsmodels Scipy** 
 ---
 ## Education
