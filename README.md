@@ -34,7 +34,13 @@ New York, USA
     * **A/B/n testing** including sampling (4 arms)
     * **Multiarmed Bandits** and ε greedy policy (4 arms)
     * **Thompson Bootstrap Sampling** (4 arms)
-    * Jupyter Notebook: **Python Panda Statsmodels Scipy** 
+    * Jupyter Notebook: **Python Panda Statsmodels Scipy**
+* [Pharma sales Time Series Forecasting](Timeseries.ipynb)
+    * **ARMA(p,q)**: seasonality exploration, ADF statistic, ACF and PACF plots, model choice based on AIC, Ljung-Box test, MSE / MAE comparaison.
+    * **SARIMA** 
+    * **SARIMAX** 
+    * **VAR(p)**: Granger Causality test
+    * Jupyter Notebook: **Python Panda Sklearn Statsmodels Math Seaborn** 
 ---
 ## Education
 
