@@ -41,7 +41,7 @@ New York, USA
     * **SARIMAX** 
     * **VAR(p)**: Granger Causality test
     * Jupyter Notebook: **Python Panda Sklearn Statsmodels Math Seaborn**
-  * [Pharma sales Time Series Forecasting using Deep Learning](Timeseries2.ipynb)
+* [Pharma sales Time Series Forecasting using Deep Learning](Timeseries2.ipynb)
     * **Deep Neural Network** single / multi-step
     * **Long short-term memory (LSTM)** single / multi-step
     * **Convolutional Neural Network (CNN)** single / multi-step / autoregressive
